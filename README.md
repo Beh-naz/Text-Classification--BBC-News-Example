@@ -41,4 +41,4 @@ Random Forest
 The models are evaluated based on their accuracy scores, confusion matrices, and classification reports.
 
 ### Best Model Selection
-The best-performing model (Logistic Regression) is selected based on its performance with $95\%$ accuracy on the test set.
+The best-performing model (Logistic Regression) is selected based on its performance with 95% accuracy on the test set.
