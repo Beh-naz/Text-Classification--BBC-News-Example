@@ -4,7 +4,7 @@ Analyzed and clustered 1,500 BBC news articles into clusters such as business an
 The code is stored in "MyTextClassification.ipynb" file.
 
 ## Data:
-The dataset "BBCNewsDataset" is uploaded to this repository.
+The dataset "BBCNewsDataset.xlsx" is uploaded to this repository.
  
 ## Sections:
 
